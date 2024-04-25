@@ -55,7 +55,7 @@ Make sure you are using **Python 3.12**.
 ## Configuration & Usage
 
 - Max Rounds, Initial Stack Size and Small Blind Amount can be configured in the [game.py](game.py) file.
-- Run the [game.py](game.py) file in the terminal using ```bash python game.py```
+- Run the [game.py](game.py) file in the terminal using ```python game.py```
 
 ## Submission Conditions
 
